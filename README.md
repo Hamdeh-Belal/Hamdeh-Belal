@@ -15,10 +15,10 @@ I have experience in **backend, frontend, cloud, and testing**, with hands-on wo
 ## 🚀 Featured Projects
 | Project | Description |
 |---------|-------------|
-| [PALLAM](#) | PALLAM is a mobile chatbot application that provides accurate and unbiased information about Palestine’s geography and history. It is powered by a fine-tuned Large Language Model (LLM) trained on over 20,564 Arabic question-answer pairs. |
-| [ASAL-Internship-App](#) | HopeLearnBridge is a full-stack web application developed during the Summer 2024 training program at ASAL Technologies. The project aims to provide a platform that bridges learners with educational resources, fostering a community of knowledge sharing and growth. |
-| [P2P-Chat-app](#) | Distributed P2P Chat with HDFS-Backed Directory Service |
-| [Data-Structures-Java](#) | Java implementations of data structures and algorithms |
+| [PALLAM](https://github.com/Hamdeh-Belal/PALLAM) | PALLAM is a mobile chatbot application that provides accurate and unbiased information about Palestine’s geography and history. It is powered by a fine-tuned Large Language Model (LLM) trained on over 20,564 Arabic question-answer pairs. |
+| [ASAL-Internship-App](https://github.com/Hamdeh-Belal/HopeLearnBridge) | HopeLearnBridge is a full-stack web application developed during the Summer 2024 training program at ASAL Technologies. The project aims to provide a platform that bridges learners with educational resources, fostering a community of knowledge sharing and growth. |
+| [P2P-Chat-app](https://github.com/Hamdeh-Belal/P2P-Chat-app) | Distributed P2P Chat with HDFS-Backed Directory Service |
+| [Data-Structures-Java](https://github.com/Hamdeh-Belal/Data_Structure) | Java implementations of data structures and algorithms |
 
 ---
 
