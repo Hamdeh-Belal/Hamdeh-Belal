@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Belal Hamdeh
-**Software Engineer | Full-Stack Developer | QA & DevOps Enthusiast**
+**QA & Software Engineer**
 
 I’m a software engineer passionate about building secure, scalable, and user-friendly applications.  
 I have experience in **backend, frontend, cloud, and testing**, with hands-on work from academic projects and internships.  
