@@ -4,10 +4,6 @@
 I’m a software engineer passionate about building secure, scalable, and user-friendly applications.  
 I have experience in **backend, and cloud**, with hands-on work from academic projects and internships.  
 
-💡 **Current focus:**
-- Backend APIs & cloud
-- Agile & DevOps practices
-
 ---
 
 ## 🚀 Featured Projects
