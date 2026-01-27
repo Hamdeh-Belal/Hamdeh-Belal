@@ -10,6 +10,7 @@ I have experience in **backend, and cloud**, with hands-on work from academic pr
 | Project | Description |
 |---------|-------------|
 | [PalGeoLLM](https://github.com/SinaLab/PalGeoLLM) |PalGeoLLM is a mobile chatbot application that provides accurate and unbiased information about Palestine’s geography and history. It is powered by a fine-tuned Large Language Model (LLM) trained on over 20,564 Arabic question–answer pairs, and was developed in collaboration with Sina Lab at Birzeit University. |
+| [Abufkaida Driving School](https://github.com/Hamdeh-Belal/Abufkaida-Driving-School) | Full-featured driving school website with study materials, quizzes, and practice content. Live demo: https://abufkaida-driving-school.netlify.app/ |
 | [P2P-Chat-app](https://github.com/Hamdeh-Belal/P2P-Chat-app) | Distributed P2P Chat with HDFS-Backed Directory Service |
 | [Data-Structures-Java](https://github.com/Hamdeh-Belal/Data_Structure) | Java implementations of data structures and algorithms |
 
